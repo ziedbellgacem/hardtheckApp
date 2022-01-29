@@ -1,0 +1,13 @@
+.table {
+  margin: 0 100px 110px 100px;
+
+  width: 85%;
+}
+.thead {
+  background-color: #007aff;
+  color: aliceblue;
+}
+.btn1 {
+  margin-top: 200px;
+  margin-left: 100px;
+}

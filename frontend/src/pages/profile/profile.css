@@ -1,0 +1,11 @@
+.prof {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 100px 100px 100px 100px;
+  box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 800px;
+}
+.pict {
+  border-radius: 50%;
+}

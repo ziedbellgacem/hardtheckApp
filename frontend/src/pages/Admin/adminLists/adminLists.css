@@ -1,0 +1,22 @@
+.ad {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 50px 0;
+}
+.bt {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15%;
+}
+.car {
+  width: 80%;
+  height: 700px;
+}
+.bt2 {
+  margin-top: 10px;
+  font-size: 15px;
+}
+.bt1 {
+  font-size: 20px;
+}

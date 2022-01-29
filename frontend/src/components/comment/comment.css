@@ -1,0 +1,9 @@
+.commentText {
+  text-align: left;
+  margin-left: 40px;
+}
+.comment12 {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+}
